@@ -1,0 +1,16 @@
+
+
+
+====Device Responsive====
+
+@media
+
+1. height
+2. width
+
+====Gradient====
+
+1. linear Gradient
+2. repeating-linear-gradient
+3. radial-gradient
+4. repeating-radial-gradient
